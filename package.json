@@ -2,7 +2,7 @@
   "name": "soyummy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vladyslavhurzhyi.github.io/soyummy/",
+  "homepage": "https://MykhailoHordiienko.github.io/SoYammyFront/",
   "dependencies": {
     "@headlessui/react": "^1.7.13",
     "@react-oauth/google": "^0.9.0",
